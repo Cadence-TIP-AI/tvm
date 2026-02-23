@@ -17,6 +17,7 @@
 # pylint: disable=redefined-outer-name,missing-docstring,invalid-name
 # pylint: disable=useless-super-delegation,redefined-builtin
 # pylint: disable=too-few-public-methods,too-many-arguments
+# ruff: noqa: RUF012
 
 
 # minimal python version is 3.9
